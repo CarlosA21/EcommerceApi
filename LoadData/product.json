@@ -1,0 +1,56 @@
+[
+  {
+    "Name": "Pant",
+    "Description": "Casual pant for sports events",
+    "Stock": 100,
+    "BrandId": 1,
+    "CategoryId": 1,
+    "Price": 120,
+    "Image": "https://canary.contestimg.wish.com/api/webimage/5c6d0a2bfb3a2929bce98b73-large.jpg?cache_buster=8d3ce4d1217a92b66aa19cd99f56b2d0"
+  },
+  {
+    "Name": "Shirt",
+    "Description": "Shirt for casual events",
+    "Stock": 600,
+    "BrandId": 2,
+    "CategoryId": 2,
+    "Price": 60,
+    "Image": "https://static.massimodutti.net/3/photos//2022/I/0/2/p/0101/301/402/0101301402_1_1_16.jpg?t=1653380841469&impolicy=massimodutti-itxmediumhigh&imwidth=500"
+  },
+  {
+    "Name": "T-Shirt",
+    "Description": "T-Shirt for outdoor walks",
+    "Stock": 500,
+    "BrandId": 3,
+    "CategoryId": 1,
+    "Price": 50,
+    "Image": "https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/D92B1019EE2241839D3F150A48FB11CB/M10186027_4.jpg?fit=inside|540:540"
+  },
+  {
+    "Name": "Shoes",
+    "Description": "Shoes for casual events",
+    "Stock": 1000,
+    "BrandId": 4,
+    "CategoryId": 1,
+    "Price": 120,
+    "Image": "https://www.toms.com/dw/image/v2/BDWV_PRD/on/demandware.static/-/Sites-toms-master-catalog/default/dw567ffa95/images/product-images/10017644-F.jpg?sw=414&sh=290&sm=cut&q=65"
+  },
+  {
+    "Name": "Sneakers",
+    "Description": "Sneaker for run",
+    "Stock": 600,
+    "BrandId": 2,
+    "CategoryId": 3,
+    "Price": 120,
+    "Image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-index-white-sneakers-1629830273.jpg?crop=0.373xw:0.746xh;0.309xw,0.173xh&resize=640:*"
+  },
+  {
+    "Name": "Borda",
+    "Description": "Swimwear",
+    "Stock": 600,
+    "BrandId": 2,
+    "CategoryId": 3,
+    "Price": 120,
+    "Image": "https://cdn.shopify.com/s/files/1/2415/7579/products/0510-multi-wmns-uglies-sharkonator-v-2-back-one-piece-front_d6ef423a-21f6-452b-bdd5-ea20e4c8cd3a_large.jpg?v=1650550312"
+  }
+]
