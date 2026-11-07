@@ -1,0 +1,7 @@
+
+
+# .NET generated output and local configuration
+[Bb]in/
+[Oo]bj/
+*.csproj.user
+appsettings.Local.json
